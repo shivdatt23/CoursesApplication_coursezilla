@@ -1,3 +1,55 @@
+# Course Application
+
+## Overview
+
+The Course Application is a full-stack web application developed to manage courses. It allows users to perform CRUD (Create, Read, Update, Delete) operations on courses, providing a user-friendly interface for course management.
+
+The frontend of the application is built using React, a JavaScript library for building user interfaces, while the backend is developed using Spring Boot, a Java-based framework for building robust and scalable applications.
+
+## Features
+
+- **Course Management:** Users can create, view, update, and delete courses.
+- **CRUD Operations:** Perform Create, Read, Update, and Delete operations on courses.
+- **Responsive Design:** User-friendly interface accessible on desktop and mobile devices.
+
+## Technologies Used
+
+- **Frontend:**
+  - React
+  - React Router
+  - Axios (for HTTP requests)
+  - Bootstrap (for styling)
+
+- **Backend:**
+  - Spring Boot
+  - Spring Data JPA
+  - MySQL
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed globally
+- Java Development Kit (JDK)
+- MySQL Database
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/course-application.git
+
+
+
+
+
+
+
+##Images
+
+
+
 ![cz_home](https://user-images.githubusercontent.com/64527116/215238690-d8e62b46-cad1-41eb-a3c3-1a3b3b519f5f.png)
 # CoursesApplication_coursezilla
 This is a web application developed using springboot and reactJS. It is the backend of the course application
