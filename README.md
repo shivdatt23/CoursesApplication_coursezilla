@@ -38,7 +38,7 @@ The frontend of the application is built using React, a JavaScript library for b
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/course-application.git
+   git clone https://github.com/shivdatt23/CoursesApplication_coursezilla.git
 
 
 
